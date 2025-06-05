@@ -1,7 +1,6 @@
 # 👋 Oi, sou Giuliano Lelo
 
 <p align="center">
-  <!-- Badge das estatísticas de GitHub -->
   <a href="https://github.com/giulianolelo" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api?username=giulianolelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
@@ -9,7 +8,7 @@
       width="350"
     />
   </a>
-  &nbsp; <!-- Pequeno espaçamento entre as imagens -->
+  &nbsp;
   <a href="https://github.com/giulianolelo" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianolelo&layout=compact&langs_count=7&theme=dark"
@@ -24,7 +23,6 @@
 ## 🛠 Ferramentas e Tecnologias
 
 <p align="center">
-  <!-- Ícones alinhados no centro, apenas HTML inline para exibir as imagens das tecnologias -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="Python"
@@ -66,12 +64,12 @@
 
 ## 📈 Minhas Contribuições no GitHub
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  ![snake animation](https://github.com/giulianolelo/giulianolelo/blob/output/github-contribution-grid-snake2.svg)
+</p>
 
 ---
 
 <p align="center">
-  <sub>
-    Criado com ❤️ por Giuliano Lelo
-  </sub>
+  <sub>Criado com ❤️ por Giuliano Lelo</sub>
 </p>
