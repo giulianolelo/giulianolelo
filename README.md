@@ -65,11 +65,15 @@
 ## 📈 Minhas Contribuições no GitHub
 
 <p align="center">
-  ![snake animation](https://github.com/giulianolelo/giulianolelo/blob/output/github-contribution-grid-snake2.svg)
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/main/output/github-contribution-grid-snake.svg"
+    alt="GitHub Snake animation"
+    width="600"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Criado com ❤️ por Giuliano Lelo</sub>
+  <sub>Criado por Giuliano Lelo</sub>
 </p>
