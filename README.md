@@ -1,37 +1,77 @@
-### Oi, sou Giuliano  Lelo
+# 👋 Oi, sou Giuliano Lelo
 
-<!--
-**giulianolelo/giulianolelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Badge das estatísticas de GitHub -->
+  <a href="https://github.com/giulianolelo" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=giulianolelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+      width="350"
+    />
+  </a>
+  &nbsp; <!-- Pequeno espaçamento entre as imagens -->
+  <a href="https://github.com/giulianolelo" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianolelo&layout=compact&langs_count=7&theme=dark"
+      alt="Most Used Languages"
+      width="350"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <div>
-  <a href="https://github.com/giulianolelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giulianolelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianolelo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Giuliano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Giuliano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Giuliano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="Giuliano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Giuliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
-  
-  ##
- 
-<div>  
-  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## 🛠 Ferramentas e Tecnologias
+
+<p align="center">
+  <!-- Ícones alinhados no centro, apenas HTML inline para exibir as imagens das tecnologias -->
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python"
+    width="40"
+    height="40"
+    style="margin: 0 10px"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    alt="JavaScript"
+    width="40"
+    height="40"
+    style="margin: 0 10px"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+    alt="TypeScript"
+    width="40"
+    height="40"
+    style="margin: 0 10px"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    alt="HTML5"
+    width="40"
+    height="40"
+    style="margin: 0 10px"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    alt="CSS3"
+    width="40"
+    height="40"
+    style="margin: 0 10px"
+  />
+</p>
+
+---
+
+## 📈 Minhas Contribuições no GitHub
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <sub>
+    Criado com ❤️ por Giuliano Lelo
+  </sub>
+</p>
